@@ -1,3 +1,3 @@
-# Sign-in-Form
+## Sign-in-Form
 
-This is a multi-page sign in form using html, js ans css.
+This is a multi-page sign in form developed by HTML, CSS and JavaScript.
